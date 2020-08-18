@@ -1,0 +1,11 @@
+#edad {
+    font-weight: bolder;
+    font-size: large;
+    color: orangered;
+}
+
+.textbox {
+    background-color: yellowgreen;
+    width: 150px;
+    margin-bottom: 10px;
+}
